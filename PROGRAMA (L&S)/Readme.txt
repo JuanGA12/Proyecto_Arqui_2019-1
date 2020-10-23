@@ -1,0 +1,1 @@
+Programa que se encarga de las operaciones de la tercera columna. El Testbench se creo para que prueba las 7 operaciones que se piden. Es por eso que en el archivo del Instruction memory a partir de la fila 8, las instrucciones se repiten.

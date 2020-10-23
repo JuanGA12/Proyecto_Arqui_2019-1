@@ -1,0 +1,1 @@
+Programa que se encarga de las operaciones de la cuarta columna. El Testbench se creo para que prueba 1 instrucción a la vez. Es por eso que en el archivo.txt ("IM.txt") del Instruction memory, se tiene que poner la instrucción que se quiere probar, las instrucciones ya están listadas en "Instrucciones.txt" .
